@@ -1,5 +1,5 @@
 ## MNIST-Classification
-The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems.[2][3] The database is also widely used for training and testing in the field of machine learning.
+The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning.
 
 ## Neural Network Architecture
 Neural Network consists of two single hidden layers with 64 and 32 nodes respectively along with an output layer having 10 nodes with softmax activation function.
